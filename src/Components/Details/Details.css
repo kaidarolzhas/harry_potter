@@ -1,0 +1,36 @@
+.ch_card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.btn{
+font-size: 15px;
+border-radius: 9px;
+}
+.block_image{
+
+    margin: 0 auto;
+    width: 250px;
+    height: 300px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 25px;
+    justify-content: center;
+    background-color: rgb(136, 180, 219);
+    width: 600px;
+}
+
+.table{
+    margin: 0 auto;
+    max-width: 300px;
+}

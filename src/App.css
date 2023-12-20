@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
+@font-face {
+	font-family: 'Game of Thrones KG';
 
+	src:		url('./fonts/game_of_thrones_kg.ttf') format('truetype'), /* Safari, Android, iOS */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
